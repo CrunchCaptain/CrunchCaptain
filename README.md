@@ -1,4 +1,4 @@
-- 👋 Hi, I’m "CrunchCaptain";
+- 👋 Hi, I’m "Jordan Holm";
 - 👀 I’m interested in ... making && playing videogames;
 - 🌱 I’m currently learning ... gameDevelopment;
 - 💞️ I’m looking to collaborate on ... public bool games = true;
